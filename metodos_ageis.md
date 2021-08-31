@@ -1,4 +1,14 @@
 #  **Metodos Ágeis**
+
+* [Manifesto Agil](#manifesto-agil)
+* [Scrum](#scrum)
+* [Kanban](#kanban)
+* [XP](#xp-xtreme-programming)
+* [Lean](#lean)
+* [FDD](#fdd-feature-driven-deveploment))
+* [Crystal](#crystal)
+* [ASD](#asd-adaptive-software-development)
+
 ## **Manifesto Agil**
 Em 2001, um grupo de 17 renomados desenvolvedores de software, agruparam e aprimoraram os diversos conceitos de metodologias ágeis existentes e assinaram o “Manifesto para o Desenvolvimento Ágil de Software”, que passou então a ser muito difundido pelas comunidades de desenvolvimento.
 
@@ -211,7 +221,7 @@ Algumas práticas da metodologia são:
 
 Você pode utilizar as metodologias da família Crystal em projetos de alta ou baixa criticidade. A ideia de Crystal é permitir que cada organização implemente as atividades que lhe pareçam adequadas.
 
-## **(ASD) Adaptive Software Development**
+## **ASD (Adaptive Software Development)**
 
 Adaptive Software Development (ASD) ou Desenvolvimento de Software Adaptativo é uma técnica para o desenvolvimento de softwares, proposta por Jim Highsmith. Este modelo concentra-se na colaboração humana e na auto-organização da equipe. Tem foco de atuação principalmente nos problemas de sistemas complexos, para grandes desenvolvimentos. O método estimula fortemente o desenvolvimento com repetições e uma constante prototipação.
 
